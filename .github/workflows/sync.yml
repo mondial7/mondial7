@@ -16,7 +16,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mondial7/mondial7.github.io.git site
+          git clone https://x-access-token:${{ secrets.PAT_SYNC }}@github.com/mondial7/mondial7.github.io.git site
           cp README.md site/index.md
           cd site
           git add index.md
