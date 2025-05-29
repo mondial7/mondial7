@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marco Mondini
 
 ✨ Software Engineer | XP & Agile Enthusiast | AI Explorer  
-📍 Amsterdam, Netherlands  
+📍 Amsterdam, Netherlands
 🔗 [mondspace.com](mailto:mmondini@mondspace.com) | [LinkedIn](https://linkedin.com/in/mondinimarco)
 
 ---
